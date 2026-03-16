@@ -82,8 +82,10 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krishna201i-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna201i)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+<!-- Update the LinkedIn URL below with your LinkedIn username -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna201i)
+<!-- Update the email address below with your actual email -->
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna201i@gmail.com)
 
 </div>
 
